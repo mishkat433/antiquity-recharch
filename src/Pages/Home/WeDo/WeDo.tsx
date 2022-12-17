@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Header = () => {
+const WeDo = () => {
     return (
         <div>
-            this is header
+            asdf
         </div>
     );
 };
 
-export default Header;
+export default WeDo;
